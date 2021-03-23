@@ -1,6 +1,6 @@
 \documentclass{article}
 
-\usepackage[pattern=std]{gridpapers}
+\usepackage[pattern=%PATTERN%]{gridpapers}
 
 \begin{document}
 \thispagestyle{empty}
